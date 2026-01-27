@@ -1,0 +1,10 @@
+name = "linear-algebra-helpers"
+version = "0.1.0"
+defaultTargets = ["linear-algebra-helpers"]
+
+[[lean_lib]]
+name = "LinearAlgebraHelpers"
+
+[[lean_exe]]
+name = "linear-algebra-helpers"
+root = "Main"
